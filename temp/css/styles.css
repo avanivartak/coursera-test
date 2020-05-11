@@ -1,0 +1,72 @@
+#body {
+  font-size:25px;
+  color: black solid black;
+  background-color: white;
+  text-align: center;
+ 
+
+}
+
+/** HEADER **/
+#header-nav {
+  font-size: 25px;
+  background-color:grey ;
+  border-radius: 0;
+  border: 7px;
+  border-color:blue;
+  border: 2px solid black;
+  
+}
+#section-part {
+  background-color: grey;
+  border: 2px;
+  margin: 20px;
+  padding: 10px;
+  height: : 100px;
+  
+}
+
+.p {
+  border: 1px solid black;
+  text-align: left;
+  font-size:20px;
+  height: 300px;
+  padding-top: 50px;
+  padding-left: 10px; 
+  padding-right: 10px; 
+  margin-right: 10px;
+  margin-left: 100px;
+  position: relative;
+  overflow: hidden;
+  position: relative;
+  font-size: 15px;
+  
+}
+
+.row{
+	width: 100%;
+}
+.text {
+	text-align: center;
+	font-size: 20px;
+}
+#kryesore {
+	overflow-y:scroll;
+}
+
+
+.navbar-brand  { /* Restaurant name */
+  
+  color: black;
+  font-size: 25px;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+
+.navbar-default .navbar-brand {
+    color: black;
+}
